@@ -46,10 +46,7 @@ This will launch a web browser where you can select a movie and get recommendati
 - **scikit-learn** (Vectorization & Similarity Computation)
 - **Streamlit** (Web Interface)
 
-## Future Improvements
-- Add movie posters for better visualization.
-- Implement a collaborative filtering approach.
-- Improve the recommendation logic with deep learning techniques.
+
 
 
 
